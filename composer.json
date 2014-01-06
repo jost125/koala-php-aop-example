@@ -1,0 +1,11 @@
+{
+	"name": "jost125/koala-php-aop-example",
+	"autoload": {
+		"psr-0": {"Example\\": "src/"}
+	},
+	"require": {
+		"php": ">=5.5.0",
+		"jost125/koala-php-aop": "dev-dev"
+	},
+	"minimum-stability": "dev"
+}
